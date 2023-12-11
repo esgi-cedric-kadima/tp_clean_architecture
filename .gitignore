@@ -1,0 +1,17 @@
+# Dépendances Node
+node_modules/
+
+# Dossier de build
+dist/
+
+# Fichiers de logs
+npm-debug.log
+yarn-error.log
+
+# Fichiers de l'environnement de développement
+.env
+.DS_Store
+
+# Dossiers de l'éditeur
+.vscode/
+.idea/
